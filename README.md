@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshitha Kumuduranga</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Undergraduate, BSc Engineering (Hons)-Computer Science and Engineering</h3>
+
+- 📫 How to reach me **lakshitha.20@cse.mrt.ac.lk,www.linkedin.com/in/lakshitha-kumuduranga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/lakshitha kumuduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshitha kumuduranga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshitha98&show_icons=true&locale=en&layout=compact" alt="lakshitha98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshitha98&show_icons=true&locale=en" alt="lakshitha98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitha98&" alt="lakshitha98" /></p>
